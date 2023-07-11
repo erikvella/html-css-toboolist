@@ -45,6 +45,7 @@ body {background-color: rgb(171, 165, 165);}
   padding-top: 5px;
   padding-bottom: 5px;
   display:inline-block;
+  border: solid blue;
 }
 
 #tasto2{
