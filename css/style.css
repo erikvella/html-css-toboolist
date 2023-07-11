@@ -15,10 +15,13 @@ body {background-color: rgb(171, 165, 165);}
 
 #logo { 
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 #titolo{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 60px;
+  
   
 }
 
@@ -71,15 +74,73 @@ hr{
 }
 
 #td , #uc{
-  margin-top: 20px;
+  margin-top: 30px;
 }
 li{
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 ul , li {
   list-style: none;
+
 }
+
+
+
+.editorial{
+  font-size: smaller;
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+
+.q1{
+  font-size: smaller;
+  background-color: blueviolet;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+
+.recruiting{
+  font-size: smaller;
+  background-color: rgb(15, 160, 78);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+
+}
+
+.mobile{
+  font-size: smaller;
+  background-color: rgb(210, 132, 30);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+
+}
+
+.website{
+  font-size: smaller;
+  background-color: rgb(187, 92, 149);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+
+}
+
+.sales{
+  font-size: smaller;
+  background-color: rgb(115, 164, 51);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+
+}
+
+
+
 
 
 
