@@ -37,6 +37,9 @@ body {background-color: rgb(171, 165, 165);}
   position: relative;
   top: 20px;
   border-radius: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #tasto2{
@@ -45,11 +48,6 @@ margin: 180px 40px;
 background-color: white;
 border-radius: 10px;
 display: inline;
+
 }
 
-#addt{
-  text-align: right;
-}
-#adds{
-  
-}
