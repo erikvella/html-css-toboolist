@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {background-color: rgb(171, 165, 165);}
+
+.boxheader{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(253, 253, 253);
+}
+
+#logo { 
+  margin-top: 20px;
+}
+
+#titolo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
