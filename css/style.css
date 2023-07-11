@@ -139,8 +139,18 @@ ul , li {
 
 }
 
+.check{
+  color: rgb(39, 223, 39);
+  background-color: white;
+  border-radius: 50%;
+  border: solid; color:  rgb(39, 223, 39);;
+}
 
-
-
+.cross{
+  color: rgb(144, 17, 13);
+  background-color: white;
+  border-radius: 50%;
+  border: solid; color: rgb(144, 17, 13);;
+}
 
 
