@@ -19,3 +19,28 @@ body {background-color: rgb(171, 165, 165);}
 #titolo{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.container{
+  width: 80%;
+  margin: 100px auto;
+  background-color: rgb(113, 19, 19);
+  height: 1600px;
+  border-radius: 20px;
+}
+
+#tasto1{
+  width: 80px;
+  margin: 20px 40px;
+  background-color: blue;
+  color: white;
+  position: relative;
+  top: 20px;
+  border-radius: 10px;
+}
+
+#tasto2{
+  width: 80px;
+margin: 180px 40px;
+background-color: white;
+border-radius: 10px;
+}
